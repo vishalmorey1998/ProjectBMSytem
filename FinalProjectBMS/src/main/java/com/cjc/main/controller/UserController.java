@@ -1,5 +1,5 @@
 package com.cjc.main.controller;
 
-public class UserController {
+public class UserController1 {
 
 }
